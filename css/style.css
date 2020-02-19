@@ -1,0 +1,31 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 40px;
+   
+    margin-left: 650px;
+    
+}
+
+.navbar {
+
+    padding: 20px;
+}
+
+.col-3 {
+  padding: 25px;
+    background-color: lightblue;
+}
+
+.list-group-item {
+    padding: 25px;
+}
+
+.card {
+
+    height: 450px;
+    padding-right: 100px;
+   width: 100cm;
+    
+}
+
+
